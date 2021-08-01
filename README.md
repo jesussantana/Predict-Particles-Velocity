@@ -1,7 +1,7 @@
 DATA SCIENCE CHALLENGE SCL WEEK 2
 =================================
 
-Precict Particles Velocity
+Predict Particles Velocity
 ==============================
 
 # Create a predictive MACHINE LEARNING (not ANN) algorithm to predict the relative velocity of the particles. The aim is to find the algorithm that minimizes the mean squared error (MSE).  
