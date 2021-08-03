@@ -8,6 +8,10 @@ Predict Particles Velocity
 
 ---
 
+![Predict Client Subscribtions](https://esmarketingdigital.com/images/particle-velocity.png)
+
+---
+
 # Create a predictive MACHINE LEARNING (not ANN) algorithm to predict the relative velocity of the particles. The aim is to find the algorithm that minimizes the mean squared error (MSE).  
 
 ---
